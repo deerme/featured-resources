@@ -14,5 +14,6 @@ Some feature resources to review
  *  * https://www.toptal.com/apache/integracion-optimizada-de-software-un-tutorial-de-apache-camel
  * Apache Camel Intro
  *  * https://www.baeldung.com/apache-camel-intro
-
+ * MicroServices with Apache Camel
+ * * https://dzone.com/articles/microservices-with-apache-camel
 
